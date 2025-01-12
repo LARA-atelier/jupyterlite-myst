@@ -43,3 +43,14 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# myst notebook
+jupyterlab_myst
+
+# data science
+pandas
+PyYaml
+parquet
+
+# web
+aiohttp
