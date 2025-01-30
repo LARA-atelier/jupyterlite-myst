@@ -44,6 +44,7 @@ nbformat
 #plotly>=5,<6
 plotly==6.0.0rc0
 bqplot
+matplotlib
 
 # myst notebook
 jupyterlab_myst
@@ -52,12 +53,14 @@ jupyterlab_myst
 pandas
 PyYaml
 parquet
+scipy
+biopython
 
 # web
 aiohttp
 
 # git
-jupyterlab-git
+#jupyterlab-git
 
 # S3
 jupyterlab-s3-browser
