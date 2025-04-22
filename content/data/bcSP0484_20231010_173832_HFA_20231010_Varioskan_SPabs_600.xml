@@ -1,0 +1,1888 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sessions>
+	<Session name="bcSP0484_20231010_173832_HFA_20231010_Varioskan_SPabs_600.skax" time="10/10/2023 5:38:47 PM">
+		<ResultStep name="Absorbance 1">
+			<Plate name="Plate 1">
+				<Wells>
+					<Coordinate column="1" row="A">
+						<Sample name="Un0001">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="0.00" value="0.0461" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="A">
+						<Sample name="Un0002">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="0.34" value="0.0436" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="A">
+						<Sample name="Un0003">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="0.67" value="0.0438" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="A">
+						<Sample name="Un0004">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="1.01" value="0.0421" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="A">
+						<Sample name="Un0005">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="1.34" value="0.0434" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="A">
+						<Sample name="Un0006">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="1.68" value="0.0426" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="A">
+						<Sample name="Un0007">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="2.01" value="0.0411" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="A">
+						<Sample name="Un0008">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="2.35" value="0.0433" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="A">
+						<Sample name="Un0009">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="2.68" value="0.0427" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="A">
+						<Sample name="Un0010">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="3.02" value="0.0421" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="A">
+						<Sample name="Un0011">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="3.35" value="0.0431" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="A">
+						<Sample name="Un0012">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="3.68" value="0.0457" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="B">
+						<Sample name="Un0013">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="7.70" value="0.0425" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="B">
+						<Sample name="Un0014">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="7.36" value="0.0428" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="B">
+						<Sample name="Un0015">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="7.03" value="0.0430" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="B">
+						<Sample name="Un0016">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="6.70" value="0.0401" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="B">
+						<Sample name="Un0017">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="6.36" value="0.0406" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="B">
+						<Sample name="Un0018">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="6.03" value="0.0454" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="B">
+						<Sample name="Un0019">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="5.69" value="0.0433" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="B">
+						<Sample name="Un0020">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="5.36" value="0.0399" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="B">
+						<Sample name="Un0021">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="5.02" value="0.0434" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="B">
+						<Sample name="Un0022">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="4.69" value="0.0450" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="B">
+						<Sample name="Un0023">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="4.35" value="0.0426" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="B">
+						<Sample name="Un0024">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="4.02" value="0.0416" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="C">
+						<Sample name="Un0025">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="8.03" value="0.0425" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="C">
+						<Sample name="Un0026">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="8.37" value="0.0431" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="C">
+						<Sample name="Un0027">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="8.70" value="0.0421" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="C">
+						<Sample name="Un0028">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="9.04" value="0.0422" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="C">
+						<Sample name="Un0029">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="9.37" value="0.0433" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="C">
+						<Sample name="Un0030">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="9.71" value="0.0442" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="C">
+						<Sample name="Un0031">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="10.04" value="0.0415" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="C">
+						<Sample name="Un0032">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="10.38" value="0.0415" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="C">
+						<Sample name="Un0033">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="10.71" value="0.0409" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="C">
+						<Sample name="Un0034">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="11.04" value="0.0432" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="C">
+						<Sample name="Un0035">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="11.38" value="0.0411" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="C">
+						<Sample name="Un0036">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="11.71" value="0.0418" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="D">
+						<Sample name="Un0037">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="15.73" value="0.0431" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="D">
+						<Sample name="Un0038">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="15.39" value="0.0411" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="D">
+						<Sample name="Un0039">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="15.06" value="0.0399" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="D">
+						<Sample name="Un0040">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="14.73" value="0.0421" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="D">
+						<Sample name="Un0041">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="14.39" value="0.0438" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="D">
+						<Sample name="Un0042">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="14.06" value="0.0405" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="D">
+						<Sample name="Un0043">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="13.72" value="0.0409" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="D">
+						<Sample name="Un0044">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="13.39" value="0.0444" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="D">
+						<Sample name="Un0045">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="13.05" value="0.0431" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="D">
+						<Sample name="Un0046">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="12.72" value="0.0399" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="D">
+						<Sample name="Un0047">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="12.38" value="0.0402" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="D">
+						<Sample name="Un0048">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="12.05" value="0.0447" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="E">
+						<Sample name="Un0049">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="16.06" value="0.0405" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="E">
+						<Sample name="Un0050">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="16.40" value="0.0416" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="E">
+						<Sample name="Un0051">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="16.73" value="0.0435" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="E">
+						<Sample name="Un0052">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="17.07" value="0.0405" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="E">
+						<Sample name="Un0053">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="17.40" value="0.0428" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="E">
+						<Sample name="Un0054">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="17.74" value="0.0414" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="E">
+						<Sample name="Un0055">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="18.07" value="0.0428" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="E">
+						<Sample name="Un0056">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="18.41" value="0.0424" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="E">
+						<Sample name="Un0057">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="18.74" value="0.0410" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="E">
+						<Sample name="Un0058">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="19.07" value="0.0421" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="E">
+						<Sample name="Un0059">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="19.41" value="0.0416" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="E">
+						<Sample name="Un0060">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="19.74" value="0.0419" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="F">
+						<Sample name="Un0061">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="23.76" value="0.0407" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="F">
+						<Sample name="Un0062">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="23.42" value="0.0415" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="F">
+						<Sample name="Un0063">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="23.09" value="0.0426" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="F">
+						<Sample name="Un0064">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="22.76" value="0.0408" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="F">
+						<Sample name="Un0065">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="22.42" value="0.0418" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="F">
+						<Sample name="Un0066">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="22.09" value="0.0433" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="F">
+						<Sample name="Un0067">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="21.75" value="0.0427" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="F">
+						<Sample name="Un0068">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="21.42" value="0.0410" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="F">
+						<Sample name="Un0069">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="21.08" value="0.0418" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="F">
+						<Sample name="Un0070">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="20.75" value="0.0443" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="F">
+						<Sample name="Un0071">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="20.41" value="0.0409" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="F">
+						<Sample name="Un0072">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="20.08" value="0.0419" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="G">
+						<Sample name="Un0073">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="24.09" value="0.0409" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="G">
+						<Sample name="Un0074">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="24.43" value="0.0411" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="G">
+						<Sample name="Un0075">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="24.76" value="0.0419" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="G">
+						<Sample name="Un0076">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="25.10" value="0.0405" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="G">
+						<Sample name="Un0077">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="25.43" value="0.0424" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="G">
+						<Sample name="Un0078">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="25.77" value="0.0411" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="G">
+						<Sample name="Un0079">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="26.10" value="0.0435" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="G">
+						<Sample name="Un0080">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="26.44" value="0.0415" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="G">
+						<Sample name="Un0081">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="26.77" value="0.0416" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="G">
+						<Sample name="Un0082">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="27.11" value="0.0407" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="G">
+						<Sample name="Un0083">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="27.44" value="0.0444" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="G">
+						<Sample name="Un0084">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="27.77" value="0.0439" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="1" row="H">
+						<Sample name="Un0085">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="31.79" value="0.0402" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="2" row="H">
+						<Sample name="Un0086">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="31.45" value="0.0416" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="3" row="H">
+						<Sample name="Un0087">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="31.12" value="0.0407" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="4" row="H">
+						<Sample name="Un0088">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="30.78" value="0.0423" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="5" row="H">
+						<Sample name="Un0089">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="30.45" value="0.0406" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="6" row="H">
+						<Sample name="Un0090">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="30.12" value="0.0417" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="7" row="H">
+						<Sample name="Un0091">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="29.78" value="0.0408" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="8" row="H">
+						<Sample name="Un0092">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="29.45" value="0.0439" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="9" row="H">
+						<Sample name="Un0093">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="29.11" value="0.0419" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="10" row="H">
+						<Sample name="Un0094">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="28.78" value="0.0401" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="11" row="H">
+						<Sample name="Un0095">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="28.44" value="0.0460" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+					<Coordinate column="12" row="H">
+						<Sample name="Un0096">
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+						</Sample>
+						<Result saturated="false" disabled="false" time="28.11" value="0.0426" value_type="Abs" wavelength_ex="600" wavelength_em="" />
+					</Coordinate>
+				</Wells>
+			</Plate>
+		</ResultStep>
+		<GeneralInformation>
+			<SoftwareVersion>Thermo Automation Server RE, ver. 7.0.2.5</SoftwareVersion>
+		</GeneralInformation>
+		<SessionInformation>
+			<SessionName>bcSP0484_20231010_173832_HFA_20231010_Varioskan_SPabs_600.skax</SessionName>
+			<SessionDescription />
+			<SessionSoftwareVersionExecuted>SkanIt Software for Microplate Readers  RE, ver 7.0.2.5</SessionSoftwareVersionExecuted>
+			<SessionExecutedTime>10/10/2023 5:38:47 PM</SessionExecutedTime>
+		</SessionInformation>
+		<InstrumentInformation>
+			<Name>Varioskan LUX</Name>
+			<ESWVersion>1.00.38</ESWVersion>
+			<OpticalResponseCompensation>True</OpticalResponseCompensation>
+			<InstrumentSerialNumber>3020-81435</InstrumentSerialNumber>
+			<InstrumentModules />
+			<ModuleName>LAT module</ModuleName>
+			<ModuleSerialNumber>LL2139805</ModuleSerialNumber>
+			<PlateAdapterName>Robotic tray for plate without lid</PlateAdapterName>
+			<PlateAdapterNumber>126</PlateAdapterNumber>
+			<Incubator>Yes</Incubator>
+			<GasControlUnit>No</GasControlUnit>
+			<TopOptics>Yes</TopOptics>
+			<BottomOptics>Yes</BottomOptics>
+			<Dispenser>Yes</Dispenser>
+			<Dispenser>Yes</Dispenser>
+		</InstrumentInformation>
+		<ProtocolSteps>
+			<MeasurementOrder>3</MeasurementOrder>
+			<UseSettleDelay>True</UseSettleDelay>
+			<CheckTemperature>No</CheckTemperature>
+			<ProtocolStep name="Absorbance 1">
+				<Wavelength>600</Wavelength>
+				<UseTransmittance>False</UseTransmittance>
+				<PathlengthCorrection>False</PathlengthCorrection>
+				<MeasurementTime>100</MeasurementTime>
+			</ProtocolStep>
+		</ProtocolSteps>
+		<RunLog>
+			<Log entrytime="10/10/2023 5:38:47 PM" event="Session bcSP0484_20231010_173832_HFA_20231010_Varioskan_SPabs_600.skax started" information="" />
+			<Log entrytime="10/10/2023 5:38:47 PM" event="Temperature" information="26.2°C (Sensor out of range)" />
+			<Log entrytime="10/10/2023 5:38:47 PM" event="Step Absorbance 1 started" information="" />
+			<Log entrytime="10/10/2023 5:39:16 PM" event="Temperature" information="26.3°C (Sensor out of range)" />
+			<Log entrytime="10/10/2023 5:39:20 PM" event="Step Absorbance 1 ended" information="" />
+			<Log entrytime="10/10/2023 5:39:20 PM" event="Temperature" information="26.2°C (Sensor out of range)" />
+			<Log entrytime="10/10/2023 5:39:30 PM" event="Session bcSP0484_20231010_173832_HFA_20231010_Varioskan_SPabs_600.skax ended" information="" />
+		</RunLog>
+		<Plates>
+			<Plate name="Plate 1">
+				<PlateTemplate>ANSI/SBS Standard, 96-well</PlateTemplate>
+				<Wells>
+					<Coordinate column="1" row="A">
+						<Sample name="Un0001">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="A">
+						<Sample name="Un0002">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="A">
+						<Sample name="Un0003">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="A">
+						<Sample name="Un0004">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="A">
+						<Sample name="Un0005">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="A">
+						<Sample name="Un0006">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="A">
+						<Sample name="Un0007">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="A">
+						<Sample name="Un0008">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="A">
+						<Sample name="Un0009">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="A">
+						<Sample name="Un0010">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="A">
+						<Sample name="Un0011">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="A">
+						<Sample name="Un0012">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="B">
+						<Sample name="Un0013">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="B">
+						<Sample name="Un0014">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="B">
+						<Sample name="Un0015">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="B">
+						<Sample name="Un0016">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="B">
+						<Sample name="Un0017">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="B">
+						<Sample name="Un0018">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="B">
+						<Sample name="Un0019">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="B">
+						<Sample name="Un0020">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="B">
+						<Sample name="Un0021">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="B">
+						<Sample name="Un0022">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="B">
+						<Sample name="Un0023">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="B">
+						<Sample name="Un0024">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="C">
+						<Sample name="Un0025">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="C">
+						<Sample name="Un0026">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="C">
+						<Sample name="Un0027">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="C">
+						<Sample name="Un0028">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="C">
+						<Sample name="Un0029">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="C">
+						<Sample name="Un0030">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="C">
+						<Sample name="Un0031">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="C">
+						<Sample name="Un0032">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="C">
+						<Sample name="Un0033">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="C">
+						<Sample name="Un0034">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="C">
+						<Sample name="Un0035">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="C">
+						<Sample name="Un0036">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="D">
+						<Sample name="Un0037">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="D">
+						<Sample name="Un0038">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="D">
+						<Sample name="Un0039">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="D">
+						<Sample name="Un0040">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="D">
+						<Sample name="Un0041">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="D">
+						<Sample name="Un0042">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="D">
+						<Sample name="Un0043">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="D">
+						<Sample name="Un0044">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="D">
+						<Sample name="Un0045">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="D">
+						<Sample name="Un0046">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="D">
+						<Sample name="Un0047">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="D">
+						<Sample name="Un0048">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="E">
+						<Sample name="Un0049">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="E">
+						<Sample name="Un0050">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="E">
+						<Sample name="Un0051">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="E">
+						<Sample name="Un0052">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="E">
+						<Sample name="Un0053">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="E">
+						<Sample name="Un0054">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="E">
+						<Sample name="Un0055">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="E">
+						<Sample name="Un0056">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="E">
+						<Sample name="Un0057">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="E">
+						<Sample name="Un0058">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="E">
+						<Sample name="Un0059">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="E">
+						<Sample name="Un0060">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="F">
+						<Sample name="Un0061">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="F">
+						<Sample name="Un0062">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="F">
+						<Sample name="Un0063">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="F">
+						<Sample name="Un0064">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="F">
+						<Sample name="Un0065">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="F">
+						<Sample name="Un0066">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="F">
+						<Sample name="Un0067">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="F">
+						<Sample name="Un0068">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="F">
+						<Sample name="Un0069">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="F">
+						<Sample name="Un0070">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="F">
+						<Sample name="Un0071">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="F">
+						<Sample name="Un0072">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="G">
+						<Sample name="Un0073">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="G">
+						<Sample name="Un0074">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="G">
+						<Sample name="Un0075">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="G">
+						<Sample name="Un0076">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="G">
+						<Sample name="Un0077">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="G">
+						<Sample name="Un0078">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="G">
+						<Sample name="Un0079">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="G">
+						<Sample name="Un0080">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="G">
+						<Sample name="Un0081">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="G">
+						<Sample name="Un0082">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="G">
+						<Sample name="Un0083">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="G">
+						<Sample name="Un0084">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="1" row="H">
+						<Sample name="Un0085">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="2" row="H">
+						<Sample name="Un0086">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="3" row="H">
+						<Sample name="Un0087">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="4" row="H">
+						<Sample name="Un0088">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="5" row="H">
+						<Sample name="Un0089">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="6" row="H">
+						<Sample name="Un0090">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="7" row="H">
+						<Sample name="Un0091">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="8" row="H">
+						<Sample name="Un0092">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="9" row="H">
+						<Sample name="Un0093">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="10" row="H">
+						<Sample name="Un0094">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="11" row="H">
+						<Sample name="Un0095">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+					<Coordinate column="12" row="H">
+						<Sample name="Un0096">
+							<Type>Unknown</Type>
+							<Groups>
+								<SampleGroup name="Group 1" />
+							</Groups>
+							<Dilution>
+								<value>1:1</value>
+							</Dilution>
+						</Sample>
+					</Coordinate>
+				</Wells>
+			</Plate>
+		</Plates>
+	</Session>
+</Sessions>
